@@ -1,0 +1,14 @@
+D:\summer2025.fpt\PRN212\Homework-1\Homework001_extend\bin\Debug\net8.0\Homework001_extend.exe
+D:\summer2025.fpt\PRN212\Homework-1\Homework001_extend\bin\Debug\net8.0\Homework001_extend.deps.json
+D:\summer2025.fpt\PRN212\Homework-1\Homework001_extend\bin\Debug\net8.0\Homework001_extend.runtimeconfig.json
+D:\summer2025.fpt\PRN212\Homework-1\Homework001_extend\bin\Debug\net8.0\Homework001_extend.dll
+D:\summer2025.fpt\PRN212\Homework-1\Homework001_extend\bin\Debug\net8.0\Homework001_extend.pdb
+D:\summer2025.fpt\PRN212\Homework-1\Homework001_extend\obj\Debug\net8.0\Homework001_extend.GeneratedMSBuildEditorConfig.editorconfig
+D:\summer2025.fpt\PRN212\Homework-1\Homework001_extend\obj\Debug\net8.0\Homework001_extend.AssemblyInfoInputs.cache
+D:\summer2025.fpt\PRN212\Homework-1\Homework001_extend\obj\Debug\net8.0\Homework001_extend.AssemblyInfo.cs
+D:\summer2025.fpt\PRN212\Homework-1\Homework001_extend\obj\Debug\net8.0\Homework001_extend.csproj.CoreCompileInputs.cache
+D:\summer2025.fpt\PRN212\Homework-1\Homework001_extend\obj\Debug\net8.0\Homework001_extend.dll
+D:\summer2025.fpt\PRN212\Homework-1\Homework001_extend\obj\Debug\net8.0\refint\Homework001_extend.dll
+D:\summer2025.fpt\PRN212\Homework-1\Homework001_extend\obj\Debug\net8.0\Homework001_extend.pdb
+D:\summer2025.fpt\PRN212\Homework-1\Homework001_extend\obj\Debug\net8.0\Homework001_extend.genruntimeconfig.cache
+D:\summer2025.fpt\PRN212\Homework-1\Homework001_extend\obj\Debug\net8.0\ref\Homework001_extend.dll

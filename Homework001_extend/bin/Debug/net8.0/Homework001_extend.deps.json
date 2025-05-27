@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Homework001_extend/1.0.0": {
+        "runtime": {
+          "Homework001_extend.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework001_extend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
